@@ -1,0 +1,6 @@
+[submodule "front-end"]
+	path = front-end
+	url = https://github.com/SixteenThousand/Ready-Salted-Front-End.git
+[submodule "back-end"]
+	path = back-end
+	url = https://github.com/141Soft/be-ready-salted.git
