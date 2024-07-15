@@ -21,17 +21,17 @@ to catch ones that match your bag’s flavour, matched as follows:
 
 <div style="display: flex; justify-content: space-around; margin: 10px 0;">
     <img
-        src="./assets/readme/Screenshot_2024-07-11_at_10.04.58.png" 
+        src="./readme-assets/Screenshot_2024-07-11_at_10.04.58.png" 
         alt="catching a good ingredient"
         height="300"
     />
     <img
-        src="./assets/readme/Screenshot_2024-07-11_at_09.38.48.png"
+        src="./readme-assets/Screenshot_2024-07-11_at_09.38.48.png"
         alt="catching a bad ingredient"
         height="300"
     />
     <img
-        src="./assets/readme/Screenshot_2024-07-11_at_10.02.19.png"
+        src="./readme-assets/Screenshot_2024-07-11_at_10.02.19.png"
         alt="end screen"
         height="300"
     />
