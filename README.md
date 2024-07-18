@@ -48,7 +48,7 @@ forever, or until the timer stops, whichever is sooner.
 
 ## Gameplay Footage
 
-<https://www.youtube.com/shorts/Z-Axyh7gLUw">
+<https://www.youtube.com/shorts/Z-Axyh7gLUw>
 
 ## Developer Setup
 
